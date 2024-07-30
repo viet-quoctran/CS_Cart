@@ -1,0 +1,14 @@
+D:\CSharp\CS_GetSet005\bin\Debug\net8.0\CS_GetSet005.exe
+D:\CSharp\CS_GetSet005\bin\Debug\net8.0\CS_GetSet005.deps.json
+D:\CSharp\CS_GetSet005\bin\Debug\net8.0\CS_GetSet005.runtimeconfig.json
+D:\CSharp\CS_GetSet005\bin\Debug\net8.0\CS_GetSet005.dll
+D:\CSharp\CS_GetSet005\bin\Debug\net8.0\CS_GetSet005.pdb
+D:\CSharp\CS_GetSet005\obj\Debug\net8.0\CS_GetSet005.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\CS_GetSet005\obj\Debug\net8.0\CS_GetSet005.AssemblyInfoInputs.cache
+D:\CSharp\CS_GetSet005\obj\Debug\net8.0\CS_GetSet005.AssemblyInfo.cs
+D:\CSharp\CS_GetSet005\obj\Debug\net8.0\CS_GetSet005.csproj.CoreCompileInputs.cache
+D:\CSharp\CS_GetSet005\obj\Debug\net8.0\CS_GetSet005.dll
+D:\CSharp\CS_GetSet005\obj\Debug\net8.0\refint\CS_GetSet005.dll
+D:\CSharp\CS_GetSet005\obj\Debug\net8.0\CS_GetSet005.pdb
+D:\CSharp\CS_GetSet005\obj\Debug\net8.0\CS_GetSet005.genruntimeconfig.cache
+D:\CSharp\CS_GetSet005\obj\Debug\net8.0\ref\CS_GetSet005.dll
